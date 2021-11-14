@@ -1,4 +1,4 @@
-# The Elucidat Coding Test - A Solution
+# Gilded Rose - A PHP Solution
 
 ## The solution
 
